@@ -6,7 +6,7 @@ authors = [{name = "raspawar", email = "raspawar@nvidia.com"}]
 requires-python = ">=3.10,<=3.13"
 dependencies = [
     "langchain-nvidia-ai-endpoints>=0.3.5",
-    "python-dotenv>=1.0.1",
+    "python-dotenv>=1.2.2",
     "crewai>=0.152.0",
     "crewai-tools>=0.58.0",
 ]
